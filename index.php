@@ -1,6 +1,6 @@
 <div style="background-color:#ccc; border:3px solid black; padding:20px;">
 
-  <h1 style="color:red;">ESERCITAZIONE</h1>
+  <h1 style="color:red;">ESERCITAZIONE FAQ GOOGLE</h1>
   <hr>
   <br>
 
@@ -29,8 +29,15 @@
       ];
 
       foreach ($faq as $q => $a) {
-        echo "<h2>$q</h2>" . "<br>" . $a;
-        echo "<br>---------<br>";
+        ?>
+
+        <h2 style="text-align: center;">
+          <?php echo $q ?>
+        </h2>
+        <p>
+          <?php echo $a ?>
+        </p>
+        <?php
       };
     ?>
 
