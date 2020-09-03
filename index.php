@@ -1,14 +1,13 @@
-
 <div style="padding:20px;">
 
   <h1 style="color:red;">ESERCITAZIONE FAQ GOOGLE</h1>
   <div>
     <ul style="display: flex; justify-content: space-between; list-style-type: none; width: 40%;">
-        <li>Introduzione</li>
-        <li>Norme sulla privacy</li>
-        <li>Termini di servizio</li>
-        <li>Tecnologie</li>
-        <b><li style="color:darkblue; cursor:pointer; border-bottom: 1px solid darkblue;">Domande frequenti</li></b>
+      <li style="cursor:pointer;">Introduzione</li>
+      <li style="cursor:pointer;">Norme sulla privacy</li>
+      <li style="cursor:pointer;">Termini di servizio</li>
+      <li style="cursor:pointer;">Tecnologie</li>
+      <b><li style="color:darkblue; cursor:pointer; border-bottom: 1px solid darkblue;">Domande frequenti</li></b>
     </ul>
   </div>
   <hr>
@@ -42,9 +41,5 @@
         <?php
       };
     ?>
-
-</div>
-
-  </b>
 
 </div>
