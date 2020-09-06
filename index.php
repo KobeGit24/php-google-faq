@@ -14,9 +14,11 @@ Snack 6
 Stampiamo il nostro array mettendo gli insegnanti in un rettangolo grigio e i PM in un rettangolo verde.
 Snack 7
 Creare un array contenente qualche alunno di un’ipotetica classe. Ogni alunno avrà Nome, Cognome e un array contenente i suoi voti scolastici. Stampare Nome, Cognome e la media dei voti di ogni alunno.
+Snack 3A
+Partiamo da questo array di hotel. https://www.codepile.net/pile/OEWY7Q1G Stampare tutti i nostri hotel con tutti i dati disponibili. Avremo un file PHP con il nostro “database” e un file con tutta la logica.
  -->
 
-<!--
+
  <div style="background-color:#ccc; border:3px solid black; padding:30px;">
 
    <h2 style="color:red;">Snack 1</h2>
@@ -327,7 +329,7 @@ Creare un array contenente qualche alunno di un’ipotetica classe. Ogni alunno 
 
   </b>
 
-</div> -->
+</div>
 
 <div style="padding:15px; font-family: sans-serif;">
 
